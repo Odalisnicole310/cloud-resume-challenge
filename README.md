@@ -27,19 +27,19 @@ Azure Static Website: https://odaliscloud10.z20.web.core.windows.net/
 
 ### Live Azure Website
 
-[Live Azure Website](docs/screenshots/Live-azure-website.png)
+![Live Azure Website](docs/screenshots/Live-azure-website.png)
 
 ### Azure Static Website Configuration
 
-[Azure Static Website Configuration](docs/screenshots/Azure-static-website-config.png)
+![Azure Static Website Configuration](docs/screenshots/Azure-static-website-config.png)
 
 ### GitHub Actions CI/CD Success
 
-[GitHub Actions CI/CD Success](docs/screenshots/Github-actions-cicd-success.png)
+![GitHub Actions CI/CD Success](docs/screenshots/Github-actions-cicd-success.png)
 
 ### GitHub Repository Structure
 
-[GitHub Repository Structure](docs/screenshots/Github-repository-structure.png)
+![GitHub Repository Structure](docs/screenshots/Github-repository-structure.png)
 
 ## Project Status
 
